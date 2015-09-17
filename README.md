@@ -1,2 +1,3 @@
-# elasticsearch_recipes
-ES Tidbits
+# ElasticSearch Tidbits
+
+This repo is a collection of utilities for use with ElasticSearch
